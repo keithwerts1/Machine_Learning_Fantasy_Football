@@ -1,0 +1,33 @@
+Name,ID,UID,TeamAbbrev,PerfMatch,OpposingTeamAbbrev,DKTeam,DKAbbrev
+Steelers ,15260860,10001,PIT,PIT,PIT,Pittsburgh,pit
+Bills ,15260861,10002,BUF,BUF,BUF,Buffalo,buf
+Eagles ,15260862,10003,PHI,PHI,PHI,Philadelphia,phi
+49ers ,15260863,10004,SF,SFO,SF,San Francisco,sfo
+Bears ,15260864,10005,CHI,CHI,CHI,Chicago,chi
+Patriots ,15260865,10006,NE,NWE,NE,New England,nwe
+Ravens ,15260866,10007,BAL,BAL,BAL,Baltimore,bal
+Chiefs ,15260868,10008,KC,KAN,KC,Kansas City,kan
+Colts ,15260867,10009,IND,IND,IND,Indianapolis,ind
+Bengals ,15260869,10010,CIN,CIN,CIN,Cincinnati,cin
+Cowboys ,15260870,10011,DAL,DAL,DAL,Dallas,dal
+Chargers ,15260872,10012,LAC,LAC,LAC,LA Chargers,lac
+Titans ,15260871,10013,TEN,TEN,TEN,Tennessee,ten
+Broncos ,15260873,10014,DEN,DEN,DEN,Denver,den
+Lions ,15260874,10015,DET,DET,DET,Detroit,det
+Packers ,15260875,10016,GB,GNB,GB,Green Bay,gnb
+Raiders ,15260876,10017,LV,LVR,LV,Las Vegas,lvr
+Vikings ,15260877,10018,MIN,MIN,MIN,Minnesota,min
+Panthers ,15260878,10019,CAR,CAR,CAR,Carolina,car
+Saints ,15260880,10020,NO,NOR,NO,New Orleans,nor
+Seahawks ,15260881,10021,SEA,SEA,SEA,Seattle,sea
+Rams ,15260882,10022,LAR,LAR,LAR,LA Rams,lar
+Giants ,15260879,10023,NYG,NYG,NYG,New York G,nyg
+Falcons ,15260883,10024,ATL,ATL,ATL,Atlanta,atl
+Jaguars ,15260884,10025,JAX,JAX,JAX,Jacksonville,jac
+Buccaneers ,15260886,10026,TB,TAM,TB,Tampa Bay,tam
+Browns ,15260885,10027,CLE,CLE,CLE,Cleveland,cle
+Jets ,15260887,10028,NYJ,NYJ,NYJ,New York J,nyj
+Cardinals ,15260888,10029,ARI,ARI,ARI,Arizona,ari
+Dolphins ,15260890,10030,MIA,MIA,MIA,Miami,mia
+Texans ,15260889,10031,HOU,HOU,HOU,Houston,hou
+WAS Football Team ,15260891,10032,WAS,WAS,WAS,Washington,was

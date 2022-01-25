@@ -1,0 +1,10 @@
+Dataset,Type,Loaded,CalcAvg,CalcAvgJoin,PlayerData,PlayerMatch,PlayerJoin,TeamData,TeamMatch,TeamJoin
+CurrentWeekDK,Skill Player,,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+PlayerDKPoints,Skill Player,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+CurrentWeekDK,Defense,,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+TeamDefenseDKPoints,Defense,Yes,No,No,No,No,No,Yes,Yes,Yes
+PlayerOffensePerformance,Skill Player,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No
+TeamOffensePerformance,Team,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+TeamDefensePerformance,Team,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+TeamScorePerformance,Team,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
+DefenseScorePerformance,Team,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes
